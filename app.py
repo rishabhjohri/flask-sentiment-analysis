@@ -156,6 +156,3 @@ def upload_file():
 if __name__ == '__main__':
     app.run(debug=True)
 
-
-#$env:GROQ_API_KEY = "<your-api-key>"
-#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
