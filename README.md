@@ -38,8 +38,7 @@ This is a Flask-based web application that allows users to upload a CSV or XLSX 
    ```bash
    pip install -r requirements.txt
 4. Set up environment variables:
-   
-Create a .env file in the root of your project and add your Groq API key:
+   Create a .env file in the root of your project and add your Groq API key:
     ```bash
     GROQ_API_KEY=your-groq-api-key
 5. Run the application:
